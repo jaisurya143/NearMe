@@ -70,6 +70,7 @@ And the main thing is to hat's off to the busstand police they have doing there 
 </body>
 </html>
 ```
+```html
 Theater.html
 
 <!DOCTYPE html>
@@ -92,6 +93,8 @@ The finest theatre in dharmapuri which gives an amazing cinematic experience. Th
 </p>
 </body>
 </html>
+```
+```html
 playground.html
 
 <!DOCTYPE html>
@@ -121,6 +124,8 @@ don't have much trees near by but the dias is huge. they literally have everythi
 </p>
 </body>
 </html>
+```
+```html
 SCHOOL.html
 
 <!DOCTYPE html>
@@ -149,6 +154,8 @@ The main objectives of Dharmapuri Government Higher Secondary School are
 </p>
 </body>
 </html>
+```
+```html
 Marriage Hall.html
 
 <!DOCTYPE html>
@@ -173,6 +180,7 @@ Its located at Kumarasamipettai, on the way to District Stadium. Its a decent ma
 </p>
 </body>
 </html>
+```
 
 ## OUTPUT
 ![Uploading Screenshot 2023-10-23 212133.png…]()
