@@ -23,7 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,6 +40,8 @@ Execute the programs and publish them.
 </map>
 </body>
 </html>
+```
+```html
 BUS STAND.html
 
 <!DOCTYPE html>
@@ -67,6 +69,7 @@ And the main thing is to hat's off to the busstand police they have doing there 
 </p>
 </body>
 </html>
+```
 Theater.html
 
 <!DOCTYPE html>
